@@ -22,9 +22,14 @@ This project of super resolution was built by Xianyao Chen, when serving for the
 
 4.2 In Super_Resolution/output/reference/, the reference output are listed.
 
-4.3 In Super_Resolution/, the performance.png show the performance of proposal model. For example, "p_1" indicates the "proposal_output_1.bmp" under Super_Resolution/output/proposal_model/; "r_1" indicates the "reference_1"
+4.3 In Super_Resolution/, the performance.png show the performance of proposal model. For example, "p_1" indicates the "proposal_output_1.bmp" under Super_Resolution/output/proposal_model/; "r_1" indicates the "reference_1.bmp" under Super_Resolution/output/reference/
     
-    4.3.1 Ths
+    4.3.1 The average of SSIM values is 0.8001. Each frame can be inferred within 45.37 millisecond by using NVIDIA GeForce RTX 3070 Ti.
+   
+[5] In order to test the robustness of the proposal model, 2k video ("sample_1920x1080.mkv") can be download from URL: https://filesamples.com/formats/mkv#google_vignette   
+
+    5.1 Execute the following command to test the robustness of the proposal model.
+    
 
 
 
