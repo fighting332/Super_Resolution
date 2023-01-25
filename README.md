@@ -12,7 +12,7 @@ This project of super resolution was built by Xianyao Chen, when serving for the
 
      3.1.1 The model is trained on RGB channels, and upscale 1920 x 1080 image to 2160 x 3840 image in inference stage
      
-     3.1.2 pixelshuffle: Rearrange elements of image
+     3.1.2 pixel shuffle: Rearrange elements of image
 
 3.2. In Super_Resolution/model_structure/, training_model.png and test_model.png are the training model and the test model, respectively.
 
