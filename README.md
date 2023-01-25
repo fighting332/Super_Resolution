@@ -22,7 +22,7 @@ This project of super resolution was built by Xianyao Chen, when serving for the
 
 4.2 In Super_Resolution/output/reference/, the reference output are listed.
 
-4.3 In Super_Resolution/, the performance.png show the performance of proposal model. "p_1" indicates the 
+4.3 In Super_Resolution/, the performance.png show the performance of proposal model. For example, "p_1" indicates the "proposal_output_1.bmp" under Super_Resolution/output/proposal_model/; "r_1" indicates the "reference_1"
     
     4.3.1 Ths
 
