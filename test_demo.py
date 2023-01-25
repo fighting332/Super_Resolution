@@ -21,7 +21,7 @@ class DEMO():
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
         model = overparameterized_model()
-        checkpoint = torch.load("overparameterized_model.pth", map_location=lambda storage, loc: storage)
+        checkpoint = torch.load("model.pth", map_location=lambda storage, loc: storage)
         model.load_state_dict(checkpoint, strict=False)
 
         model.eval()
