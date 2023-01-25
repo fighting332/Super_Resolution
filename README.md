@@ -18,5 +18,12 @@ This project of super resolution was built by Xianyao Chen, when serving for the
 
 [4] Result: Output 4k images and display 4k images
 
-4.1 In Super_Resolution/output/proposal_model, the 
+4.1 In Super_Resolution/output/proposal_model, the proposal model output 4k images.
+
+4.2 In Super_Resolution/output/reference, the reference output are listed.
+
+4.3 
+
+
+
 
