@@ -28,7 +28,7 @@ This project of super resolution was built by Xianyao Chen, when serving for the
    
 [5] In order to test the robustness of the proposal model, 2k video ("sample_1920x1080.mkv") can be download from URL: https://filesamples.com/formats/mkv#google_vignette   
 
-    5.1 Execute the following command to test the robustness of the proposal model.
+    5.1 Execute the following command to test the robustness of the proposal model: python test_demo.py --vid_path sample_1920x1080.mkv 
     
 
 
