@@ -8,7 +8,7 @@ This project of super resolution was built by Xianyao Chen, when serving for the
 
 [3] Techniques:
 
-3.1. Overparameterization: Collapse a very large deep network into a highly effcient deep network. 
+3.1. Overparameterization: Collapse a very large deep network into a highly efficient deep network. 
 
      3.1.1 The model is trained on RGB channels, and upscale 1920 x 1080 image to 2160 x 3840 image in inference stage
      
